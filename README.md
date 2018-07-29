@@ -12,7 +12,10 @@ mesh-tdma repo for libremesh
 ### Pulse Synchronization
 ## When to initiate TDMA?
 ## Problems with scale?
-## The Problem of Other People
+## The Problem of Other People (noise)
 ## Further Work 
-#### Testing Lab 
-Astral Mesh (aggressive/active channel state measurement)  
+### Testing Lab 
+### Astral Mesh (aggressive/active channel state measurement)  
+### Heatmapping
+### Quality-of-Service
+### Predictive Analytics
