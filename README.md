@@ -14,5 +14,5 @@ mesh-tdma repo for libremesh
 ## Problems with scale?
 ## The Problem of Other People
 ## Further Work 
-#### Teting Lab 
+#### Testing Lab 
 Astral Mesh (aggressive/active channel state measurement)  
