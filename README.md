@@ -9,7 +9,7 @@ Graph theory workbooks and theory for mesh networks.
 
 'TDMA' examines the different possible TDMA techniques suitable for mesh networks.
 
-'Possibility' is a notebook that originated as a document from @nicopace.  
+'Possibility' is a notebook that originated as a document from @nicopace (tdma.doc).  
 
 'Future Work' describes work on other spectrum management techniques like channel management, quality-of-service, and community-controlled access.
 
